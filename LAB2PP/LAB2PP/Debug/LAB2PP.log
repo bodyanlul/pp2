@@ -1,0 +1,5 @@
+﻿  LAB2PP.cpp
+C:\Users\User.DESKTOP-Q2FT676\source\repos\LAB2PP\LAB2PP\LAB2PP.cpp(47,43): error C2065:  print: необъявленный идентификатор
+C:\Users\User.DESKTOP-Q2FT676\source\repos\LAB2PP\LAB2PP\LAB2PP.cpp(47,51): error C2065:  s: необъявленный идентификатор
+C:\Users\User.DESKTOP-Q2FT676\source\repos\LAB2PP\LAB2PP\LAB2PP.cpp(47,53): error C2065:  i: необъявленный идентификатор
+C:\Users\User.DESKTOP-Q2FT676\source\repos\LAB2PP\LAB2PP\LAB2PP.cpp(53,3): error C2065:  sum: необъявленный идентификатор
